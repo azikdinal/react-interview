@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "src/React junior competitions.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab37783ab955f7b2",
+  "active": "84b5004b99abd948",
   "lastOpenFiles": [
-    "New Text Document.txt",
+    "src/React junior competitions.md",
     "README.md",
+    "New Text Document.txt",
     "src/Что такое хранилище (store) в Redux.md",
     "src/Что такое фильтрация пакетов и как она используется для контроля доступа к сети.md",
     "src/Что такое условный рендеринг в React.md",
@@ -215,7 +212,6 @@
     "Untitled.canvas",
     "Node.js",
     "assets/redux.gif",
-    "assets",
     "redux.gif",
     "Nots_icon-k3mr.png",
     "Something.canvas"
