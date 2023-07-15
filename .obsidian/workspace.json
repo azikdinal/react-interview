@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "fafcc70df2fb466e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e31ad83bf630f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa2c91b9c4690c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как работает мемоизация в React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84b5004b99abd948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как работает серверный рендеринг (Server-Side Rendering) в React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2879dd8b882eef61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab37783ab955f7b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f498704b803c3c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8900a175cfc48406",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd3f25f7b7384d48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "71f74dc5048579fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab6386779b2c363e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "450c2a330ff6d88b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7f2cae8501b2486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff547e2f4841e914",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c40a2438e74b9e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3be20fc71cc4bdef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c3a986241368dcf6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9462ac7f843e6f99",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab37783ab955f7b2",
+  "lastOpenFiles": [
+    "README.md",
+    "Start webpack.md",
+    "Изучение основных концепций.md",
+    "React junior.md",
+    "Getting page trough URL path.md",
+    "2023-07-15.md",
+    "CI CD.md",
+    "Основы SQL.md",
+    "Основы Node.js.md",
+    "React junior competitions.md",
+    "Алгоритмы.md",
+    "Основные структуры данных.md",
+    "Тестирование.md",
+    "Роутинг.md",
+    "Typescript.md",
+    "React.md",
+    "Как изменить состояние компонента в React.md",
+    "Как организовать тестирование компонентов в React с помощью React Testing Library.md",
+    "Как реализовать интернационализацию (i18n) в React приложении.md",
+    "Что такое асинхронный импорт (dynamic import) и как он используется в React.md",
+    "Как работает HMR (Hot Module Replacement) в React приложении.md",
+    "Как создать и использовать рефы (refs) в React.md",
+    "Как работает обновление списка в React с помощью метода `map()`.md",
+    "Что такое компоненты функций (function components) в React и как они отличаются от классовых компонентов.md",
+    "Каким образом можно использовать CSS модули (CSS modules) в React.md",
+    "Как работает внедрение зависимостей (dependency injection) в React.md",
+    "Что такое протоколы HTTP/1.1 и HTTP",
+    "Что такое протоколы HTTP",
+    "Что такое SSL",
+    "Что такое протокол TCP",
+    "Как использовать типы для асинхронного кода (Promises, async",
+    "Pasted image 20230712190937.png",
+    "Pasted image 20230712154600.png",
+    "Untitled",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Node.js",
+    "assets/redux.gif",
+    "assets",
+    "redux.gif",
+    "Nots_icon-k3mr.png",
+    "Something.canvas"
+  ]
+}

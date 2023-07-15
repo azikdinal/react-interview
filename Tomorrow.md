@@ -1,0 +1,3 @@
+- english
+- whatsapp
+- running

@@ -1,0 +1,3 @@
+- make styles prettier
+- set up classes
+- make code working perfectly to get and send messages
