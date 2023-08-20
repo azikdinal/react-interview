@@ -4,30 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4e31ad83bf630f9d",
+        "id": "4f5f4b2e4e29e93c",
         "type": "tabs",
         "children": [
           {
-            "id": "84b5004b99abd948",
+            "id": "1b02b59be23032e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "2879dd8b882eef61",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ab37783ab955f7b2",
+            "id": "425187fb40a39dd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/React junior competitions.md",
+                "file": "src/Алгоритмы.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "450c2a330ff6d88b",
@@ -164,35 +159,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84b5004b99abd948",
+  "active": "1b02b59be23032e5",
   "lastOpenFiles": [
-    "src/React junior competitions.md",
-    "README.md",
-    "New Text Document.txt",
-    "src/Что такое хранилище (store) в Redux.md",
-    "src/Что такое фильтрация пакетов и как она используется для контроля доступа к сети.md",
-    "src/Что такое условный рендеринг в React.md",
-    "src/Что такое управление состоянием в React.md",
-    "src/Что такое типизация guard clauses в TypeScript.md",
-    "src/Что такое строгая проверка типов (strict null checks) в TypeScript и как ее настроить.md",
-    "src/Что такое состояние компонента (state) в React.md",
-    "src/Что такое состояние (state) компонента в React.md",
-    "src/Что такое сетевые устройства коммутатор и маршрутизатор и как они различаются.md",
-    "src/Что такое сетевые протоколы IPv4 и IPv6 и как они различаются.md",
+    "src/Какие методы доступны для работы с массивами в JavaScript.md",
+    "src/JavaScript.md",
+    "src/Какие методы доступны для работы с объектами в JavaScript.md",
+    "src/Что такое тестирование компонентов React Hooks.md",
+    "src/Тестирование.md",
+    "src/Что такое Jest и как он связан с тестированием React.md",
+    "src/Что такое тестирование React приложений и почему оно важно.md",
+    "src/HTML и CSS.md",
+    "src/Как создать список с маркерами в HTML.md",
+    "src/Как создать ссылку в HTML.md",
+    "src/Какой основной элемент используется для описания содержимого веб-страницы.md",
+    "src/Что такое элементы и теги в HTML.md",
     "src/Что такое сетевые пакеты и как они передаются по сети.md",
-    "src/Что такое сетевые атаки XSS и CSRF и какие методы защиты от них существуют.md",
-    "src/Что такое сетевые архитектуры клиент-сервер и P2P и в чем их различия.md",
-    "src/Что такое сетевой фаервол и как он используется для обеспечения безопасности.md",
+    "src/Сети.md",
+    "src/Что такое NAT-пробивание и как оно используется для обеспечения доступности сетевых устройств из внешней сети.md",
+    "src/Что такое подключение VPN-клиента и как оно используется для обеспечения безопасного соединения.md",
     "src/Что такое сетевой протокол UDP и в чем его отличие от TCP.md",
-    "src/Что такое сетевой порт и как он используется для идентификации сетевых служб.md",
-    "src/Что такое сетевая топология и какие типы топологий вы знаете.md",
-    "src/Что такое сетевая маскировка и как она используется для обеспечения безопасности сети.md",
-    "src/Что такое сетевая атака DDoS и какие методы используются для ее предотвращения.md",
-    "src/Что такое сетевая адресация IPv4 и IPv6 и как они различаются.md",
-    "src/Что такое сессии и куки в контексте веб-разработки.md",
-    "src/Что такое селекторы (selectors) в Redux.md",
-    "src/Что такое свойства компонента (props) в React.md",
-    "src/Что такое редюсер (reducer) в Redux.md",
+    "src/React.md",
+    "src/Что такое компоненты функций (function components) в React и как они отличаются от классовых компонентов.md",
+    "src/TypeScript.md",
+    "src/Каковы преимущества использования TypeScript.md",
+    "src/Next.js.md",
+    "src/Как работает прототипное наследование в JavaScript.md",
+    "src/Что такое прототип объекта (prototype) в JavaScript.md",
+    "src/Как работает оператор `this` в JavaScript.md",
+    "src/Что такое каррирование (currying) в JavaScript.md",
+    "src.zip",
+    "Untitled.canvas",
+    "New Text Document.txt",
     "src/Untitled.canvas",
     "src/Untitled 1.canvas",
     "src/redux.gif",
@@ -209,8 +206,6 @@
     "Pasted image 20230712154600.png",
     "Untitled",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Node.js",
     "assets/redux.gif",
     "redux.gif",
     "Nots_icon-k3mr.png",
